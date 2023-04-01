@@ -1,2 +1,6 @@
 # Bilateral-Trade-Agreements-IR-Theory
-Analysis for paper on institutional theory of bilateral trade agreements.
+### International Trade Agreements: Causal Institutions or Effects of Existing Rapport?
+
+This code was for an analysis in a [paper]() I wrote for a course on international relations theory (Note: the UN Comtrade database has been updated since I originally ran the analysis, so the numbers are slightly different in the paper from the results below; I opted to leave both as they are for now). While I was looking at explicitly economic data (export & import volumes), the research was focused on IR institutional theory, not economic theory per se (though of course they overlap, and I usually abide happily by the dictum that everything is economics). More concretely, the question at hand was whether international trade agreements alter nations' relations significantly, or are they simply manifestations of relations already in place?
+
+I hasten to add that I don't take the findings here as contributing anything to a case against international trade -- I'm a pretty diehard free-trader on both consequentialist and deontological grounds -- but the results might say something interesting about the conditions from which trade agreements arise, i.e. significant international economic connection looks like a prerequisite for agreements rather than the other way around. That's still a loosely held, highly qualified conclusion, and even then, it's not anything the simplest economic theory couldn't offer.
