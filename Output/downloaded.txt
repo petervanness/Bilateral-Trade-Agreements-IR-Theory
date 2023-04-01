@@ -1,0 +1,2121 @@
+4-Afghanistan-2000
+4-Afghanistan-2001
+4-Afghanistan-2002
+4-Afghanistan-2003
+4-Afghanistan-2004
+4-Afghanistan-2005
+4-Afghanistan-2006
+4-Afghanistan-2007
+4-Afghanistan-2008
+4-Afghanistan-2009
+4-Afghanistan-2010
+4-Afghanistan-2011
+4-Afghanistan-2012
+4-Afghanistan-2013
+4-Afghanistan-2014
+4-Afghanistan-2015
+4-Afghanistan-2016
+4-Afghanistan-2017
+4-Afghanistan-2018
+4-Afghanistan-2019
+8-Albania-2000
+8-Albania-2001
+8-Albania-2002
+8-Albania-2003
+8-Albania-2004
+8-Albania-2005
+8-Albania-2006
+8-Albania-2007
+8-Albania-2008
+8-Albania-2009
+8-Albania-2010
+8-Albania-2011
+8-Albania-2012
+8-Albania-2013
+8-Albania-2014
+8-Albania-2015
+8-Albania-2016
+8-Albania-2017
+8-Albania-2018
+8-Albania-2019
+12-Algeria-2000
+12-Algeria-2001
+12-Algeria-2002
+12-Algeria-2003
+12-Algeria-2004
+12-Algeria-2005
+12-Algeria-2006
+12-Algeria-2007
+12-Algeria-2008
+12-Algeria-2009
+12-Algeria-2010
+12-Algeria-2011
+12-Algeria-2012
+12-Algeria-2013
+12-Algeria-2014
+12-Algeria-2015
+12-Algeria-2016
+12-Algeria-2017
+12-Algeria-2018
+12-Algeria-2019
+20-Andorra-2000
+20-Andorra-2001
+20-Andorra-2002
+20-Andorra-2003
+20-Andorra-2004
+20-Andorra-2005
+20-Andorra-2006
+20-Andorra-2007
+20-Andorra-2008
+20-Andorra-2009
+20-Andorra-2010
+20-Andorra-2011
+20-Andorra-2012
+20-Andorra-2013
+20-Andorra-2014
+20-Andorra-2015
+20-Andorra-2016
+20-Andorra-2017
+20-Andorra-2018
+20-Andorra-2019
+24-Angola-2000
+24-Angola-2001
+24-Angola-2002
+24-Angola-2003
+24-Angola-2004
+24-Angola-2005
+24-Angola-2006
+24-Angola-2007
+24-Angola-2008
+24-Angola-2009
+24-Angola-2010
+24-Angola-2011
+24-Angola-2012
+24-Angola-2013
+24-Angola-2014
+24-Angola-2015
+24-Angola-2016
+24-Angola-2017
+24-Angola-2018
+24-Angola-2019
+660-Anguilla-2000
+660-Anguilla-2001
+660-Anguilla-2002
+660-Anguilla-2003
+660-Anguilla-2004
+660-Anguilla-2005
+660-Anguilla-2006
+660-Anguilla-2007
+660-Anguilla-2008
+660-Anguilla-2009
+660-Anguilla-2010
+660-Anguilla-2011
+660-Anguilla-2012
+660-Anguilla-2013
+660-Anguilla-2014
+660-Anguilla-2015
+660-Anguilla-2016
+660-Anguilla-2017
+660-Anguilla-2018
+660-Anguilla-2019
+28-Antigua and Barbuda-2000
+28-Antigua and Barbuda-2001
+28-Antigua and Barbuda-2002
+28-Antigua and Barbuda-2003
+28-Antigua and Barbuda-2004
+28-Antigua and Barbuda-2005
+28-Antigua and Barbuda-2006
+28-Antigua and Barbuda-2007
+28-Antigua and Barbuda-2008
+28-Antigua and Barbuda-2009
+28-Antigua and Barbuda-2010
+28-Antigua and Barbuda-2011
+28-Antigua and Barbuda-2012
+28-Antigua and Barbuda-2013
+28-Antigua and Barbuda-2014
+28-Antigua and Barbuda-2015
+28-Antigua and Barbuda-2016
+28-Antigua and Barbuda-2017
+28-Antigua and Barbuda-2018
+28-Antigua and Barbuda-2019
+32-Argentina-2000
+32-Argentina-2001
+32-Argentina-2002
+32-Argentina-2003
+32-Argentina-2004
+32-Argentina-2005
+32-Argentina-2006
+32-Argentina-2007
+32-Argentina-2008
+32-Argentina-2009
+32-Argentina-2010
+32-Argentina-2011
+32-Argentina-2012
+32-Argentina-2013
+32-Argentina-2014
+32-Argentina-2015
+32-Argentina-2016
+32-Argentina-2017
+32-Argentina-2018
+32-Argentina-2019
+51-Armenia-2000
+51-Armenia-2001
+51-Armenia-2002
+51-Armenia-2003
+51-Armenia-2004
+51-Armenia-2005
+51-Armenia-2006
+51-Armenia-2007
+51-Armenia-2008
+51-Armenia-2009
+51-Armenia-2010
+51-Armenia-2011
+51-Armenia-2012
+51-Armenia-2013
+51-Armenia-2014
+51-Armenia-2015
+51-Armenia-2016
+51-Armenia-2017
+51-Armenia-2018
+51-Armenia-2019
+533-Aruba-2000
+533-Aruba-2001
+533-Aruba-2002
+533-Aruba-2003
+533-Aruba-2004
+533-Aruba-2005
+533-Aruba-2006
+533-Aruba-2007
+533-Aruba-2008
+533-Aruba-2009
+533-Aruba-2010
+533-Aruba-2011
+533-Aruba-2012
+533-Aruba-2013
+533-Aruba-2014
+533-Aruba-2015
+533-Aruba-2016
+533-Aruba-2017
+533-Aruba-2018
+533-Aruba-2019
+36-Australia-2000
+36-Australia-2001
+36-Australia-2002
+36-Australia-2003
+36-Australia-2004
+36-Australia-2005
+36-Australia-2006
+36-Australia-2007
+36-Australia-2008
+36-Australia-2009
+36-Australia-2010
+36-Australia-2011
+36-Australia-2012
+36-Australia-2013
+36-Australia-2014
+36-Australia-2015
+36-Australia-2016
+36-Australia-2017
+36-Australia-2018
+36-Australia-2019
+40-Austria-2000
+40-Austria-2001
+40-Austria-2002
+40-Austria-2003
+40-Austria-2004
+40-Austria-2005
+40-Austria-2006
+40-Austria-2007
+40-Austria-2008
+40-Austria-2009
+40-Austria-2010
+40-Austria-2011
+40-Austria-2012
+40-Austria-2013
+40-Austria-2014
+40-Austria-2015
+40-Austria-2016
+40-Austria-2017
+40-Austria-2018
+40-Austria-2019
+31-Azerbaijan-2000
+31-Azerbaijan-2001
+31-Azerbaijan-2002
+31-Azerbaijan-2003
+31-Azerbaijan-2004
+31-Azerbaijan-2005
+31-Azerbaijan-2006
+31-Azerbaijan-2007
+31-Azerbaijan-2008
+31-Azerbaijan-2009
+31-Azerbaijan-2010
+31-Azerbaijan-2011
+31-Azerbaijan-2012
+31-Azerbaijan-2013
+31-Azerbaijan-2014
+31-Azerbaijan-2015
+31-Azerbaijan-2016
+31-Azerbaijan-2017
+31-Azerbaijan-2018
+31-Azerbaijan-2019
+44-Bahamas-2000
+44-Bahamas-2001
+44-Bahamas-2002
+44-Bahamas-2003
+44-Bahamas-2004
+44-Bahamas-2005
+44-Bahamas-2006
+44-Bahamas-2007
+44-Bahamas-2008
+44-Bahamas-2009
+44-Bahamas-2010
+44-Bahamas-2011
+44-Bahamas-2012
+44-Bahamas-2013
+44-Bahamas-2014
+44-Bahamas-2015
+44-Bahamas-2016
+44-Bahamas-2017
+44-Bahamas-2018
+44-Bahamas-2019
+48-Bahrain-2000
+48-Bahrain-2001
+48-Bahrain-2002
+48-Bahrain-2003
+48-Bahrain-2004
+48-Bahrain-2005
+48-Bahrain-2006
+48-Bahrain-2007
+48-Bahrain-2008
+48-Bahrain-2009
+48-Bahrain-2010
+48-Bahrain-2011
+48-Bahrain-2012
+48-Bahrain-2013
+48-Bahrain-2014
+48-Bahrain-2015
+48-Bahrain-2016
+48-Bahrain-2017
+48-Bahrain-2018
+48-Bahrain-2019
+50-Bangladesh-2000
+50-Bangladesh-2001
+50-Bangladesh-2002
+50-Bangladesh-2003
+50-Bangladesh-2004
+50-Bangladesh-2005
+50-Bangladesh-2006
+50-Bangladesh-2007
+50-Bangladesh-2008
+50-Bangladesh-2009
+50-Bangladesh-2010
+50-Bangladesh-2011
+50-Bangladesh-2012
+50-Bangladesh-2013
+50-Bangladesh-2014
+50-Bangladesh-2015
+50-Bangladesh-2016
+50-Bangladesh-2017
+50-Bangladesh-2018
+50-Bangladesh-2019
+52-Barbados-2000
+52-Barbados-2001
+52-Barbados-2002
+52-Barbados-2003
+52-Barbados-2004
+52-Barbados-2005
+52-Barbados-2006
+52-Barbados-2007
+52-Barbados-2008
+52-Barbados-2009
+52-Barbados-2010
+52-Barbados-2011
+52-Barbados-2012
+52-Barbados-2013
+52-Barbados-2014
+52-Barbados-2015
+52-Barbados-2016
+52-Barbados-2017
+52-Barbados-2018
+52-Barbados-2019
+112-Belarus-2000
+112-Belarus-2001
+112-Belarus-2002
+112-Belarus-2003
+112-Belarus-2004
+112-Belarus-2005
+112-Belarus-2006
+112-Belarus-2007
+112-Belarus-2008
+112-Belarus-2009
+112-Belarus-2010
+112-Belarus-2011
+112-Belarus-2012
+112-Belarus-2013
+112-Belarus-2014
+112-Belarus-2015
+112-Belarus-2016
+112-Belarus-2017
+112-Belarus-2018
+112-Belarus-2019
+56-Belgium-2000
+56-Belgium-2001
+56-Belgium-2002
+56-Belgium-2003
+56-Belgium-2004
+56-Belgium-2005
+56-Belgium-2006
+56-Belgium-2007
+56-Belgium-2008
+56-Belgium-2009
+56-Belgium-2010
+56-Belgium-2011
+56-Belgium-2012
+56-Belgium-2013
+56-Belgium-2014
+56-Belgium-2015
+56-Belgium-2016
+56-Belgium-2017
+56-Belgium-2018
+56-Belgium-2019
+58-Belgium-Luxembourg-2000
+58-Belgium-Luxembourg-2001
+58-Belgium-Luxembourg-2002
+58-Belgium-Luxembourg-2003
+58-Belgium-Luxembourg-2004
+58-Belgium-Luxembourg-2005
+58-Belgium-Luxembourg-2006
+58-Belgium-Luxembourg-2007
+58-Belgium-Luxembourg-2008
+58-Belgium-Luxembourg-2009
+58-Belgium-Luxembourg-2010
+58-Belgium-Luxembourg-2011
+58-Belgium-Luxembourg-2012
+58-Belgium-Luxembourg-2013
+58-Belgium-Luxembourg-2014
+58-Belgium-Luxembourg-2015
+58-Belgium-Luxembourg-2016
+58-Belgium-Luxembourg-2017
+58-Belgium-Luxembourg-2018
+58-Belgium-Luxembourg-2019
+84-Belize-2000
+84-Belize-2001
+84-Belize-2002
+84-Belize-2003
+84-Belize-2004
+84-Belize-2005
+84-Belize-2006
+84-Belize-2007
+84-Belize-2008
+84-Belize-2009
+84-Belize-2010
+84-Belize-2011
+84-Belize-2012
+84-Belize-2013
+84-Belize-2014
+84-Belize-2015
+84-Belize-2016
+84-Belize-2017
+84-Belize-2018
+84-Belize-2019
+204-Benin-2000
+204-Benin-2001
+204-Benin-2002
+204-Benin-2003
+204-Benin-2004
+204-Benin-2005
+204-Benin-2006
+204-Benin-2007
+204-Benin-2008
+204-Benin-2009
+204-Benin-2010
+204-Benin-2011
+204-Benin-2012
+204-Benin-2013
+204-Benin-2014
+204-Benin-2015
+204-Benin-2016
+204-Benin-2017
+204-Benin-2018
+204-Benin-2019
+60-Bermuda-2000
+60-Bermuda-2001
+60-Bermuda-2002
+60-Bermuda-2003
+60-Bermuda-2004
+60-Bermuda-2005
+60-Bermuda-2006
+60-Bermuda-2007
+60-Bermuda-2008
+60-Bermuda-2009
+60-Bermuda-2010
+60-Bermuda-2011
+60-Bermuda-2012
+60-Bermuda-2013
+60-Bermuda-2014
+60-Bermuda-2015
+60-Bermuda-2016
+60-Bermuda-2017
+60-Bermuda-2018
+60-Bermuda-2019
+64-Bhutan-2000
+64-Bhutan-2001
+64-Bhutan-2002
+64-Bhutan-2003
+64-Bhutan-2004
+64-Bhutan-2005
+64-Bhutan-2006
+64-Bhutan-2007
+64-Bhutan-2008
+64-Bhutan-2009
+64-Bhutan-2010
+64-Bhutan-2011
+64-Bhutan-2012
+64-Bhutan-2013
+64-Bhutan-2014
+64-Bhutan-2015
+64-Bhutan-2016
+64-Bhutan-2017
+64-Bhutan-2018
+64-Bhutan-2019
+68-Bolivia (Plurinational State of)-2000
+68-Bolivia (Plurinational State of)-2001
+68-Bolivia (Plurinational State of)-2002
+68-Bolivia (Plurinational State of)-2003
+68-Bolivia (Plurinational State of)-2004
+68-Bolivia (Plurinational State of)-2005
+68-Bolivia (Plurinational State of)-2006
+68-Bolivia (Plurinational State of)-2007
+68-Bolivia (Plurinational State of)-2008
+68-Bolivia (Plurinational State of)-2009
+68-Bolivia (Plurinational State of)-2010
+68-Bolivia (Plurinational State of)-2011
+68-Bolivia (Plurinational State of)-2012
+68-Bolivia (Plurinational State of)-2013
+68-Bolivia (Plurinational State of)-2014
+68-Bolivia (Plurinational State of)-2015
+68-Bolivia (Plurinational State of)-2016
+68-Bolivia (Plurinational State of)-2017
+68-Bolivia (Plurinational State of)-2018
+68-Bolivia (Plurinational State of)-2019
+535-Bonaire-2000
+535-Bonaire-2001
+535-Bonaire-2002
+535-Bonaire-2003
+535-Bonaire-2004
+535-Bonaire-2005
+535-Bonaire-2006
+535-Bonaire-2007
+535-Bonaire-2008
+535-Bonaire-2009
+535-Bonaire-2010
+535-Bonaire-2011
+535-Bonaire-2012
+535-Bonaire-2013
+535-Bonaire-2014
+535-Bonaire-2015
+535-Bonaire-2016
+535-Bonaire-2017
+535-Bonaire-2018
+535-Bonaire-2019
+70-Bosnia Herzegovina-2000
+70-Bosnia Herzegovina-2001
+70-Bosnia Herzegovina-2002
+70-Bosnia Herzegovina-2003
+70-Bosnia Herzegovina-2004
+70-Bosnia Herzegovina-2005
+70-Bosnia Herzegovina-2006
+70-Bosnia Herzegovina-2007
+70-Bosnia Herzegovina-2008
+70-Bosnia Herzegovina-2009
+70-Bosnia Herzegovina-2010
+70-Bosnia Herzegovina-2011
+70-Bosnia Herzegovina-2012
+70-Bosnia Herzegovina-2013
+70-Bosnia Herzegovina-2014
+70-Bosnia Herzegovina-2015
+70-Bosnia Herzegovina-2016
+70-Bosnia Herzegovina-2017
+70-Bosnia Herzegovina-2018
+70-Bosnia Herzegovina-2019
+76-Brazil-2000
+76-Brazil-2001
+76-Brazil-2002
+76-Brazil-2003
+76-Brazil-2004
+76-Brazil-2005
+76-Brazil-2006
+76-Brazil-2007
+76-Brazil-2008
+76-Brazil-2009
+76-Brazil-2010
+76-Brazil-2011
+76-Brazil-2012
+76-Brazil-2013
+76-Brazil-2014
+76-Brazil-2015
+76-Brazil-2017
+76-Brazil-2019
+96-Brunei Darussalam-2000
+96-Brunei Darussalam-2001
+96-Brunei Darussalam-2003
+96-Brunei Darussalam-2005
+96-Brunei Darussalam-2006
+96-Brunei Darussalam-2007
+96-Brunei Darussalam-2008
+96-Brunei Darussalam-2009
+96-Brunei Darussalam-2010
+96-Brunei Darussalam-2011
+96-Brunei Darussalam-2012
+96-Brunei Darussalam-2013
+96-Brunei Darussalam-2014
+96-Brunei Darussalam-2015
+96-Brunei Darussalam-2016
+96-Brunei Darussalam-2017
+96-Brunei Darussalam-2018
+96-Brunei Darussalam-2019
+100-Bulgaria-2000
+100-Bulgaria-2001
+100-Bulgaria-2002
+100-Bulgaria-2003
+100-Bulgaria-2004
+100-Bulgaria-2005
+100-Bulgaria-2006
+100-Bulgaria-2007
+100-Bulgaria-2008
+100-Bulgaria-2009
+100-Bulgaria-2010
+100-Bulgaria-2011
+100-Bulgaria-2012
+100-Bulgaria-2013
+100-Bulgaria-2014
+100-Bulgaria-2015
+100-Bulgaria-2016
+100-Bulgaria-2017
+100-Bulgaria-2018
+100-Bulgaria-2019
+120-Cameroon-2000
+120-Cameroon-2001
+120-Cameroon-2002
+120-Cameroon-2003
+120-Cameroon-2004
+120-Cameroon-2005
+120-Cameroon-2006
+120-Cameroon-2007
+120-Cameroon-2008
+120-Cameroon-2009
+120-Cameroon-2010
+120-Cameroon-2011
+120-Cameroon-2012
+120-Cameroon-2013
+120-Cameroon-2014
+120-Cameroon-2015
+120-Cameroon-2016
+120-Cameroon-2017
+120-Cameroon-2018
+120-Cameroon-2019
+124-Canada-2000
+124-Canada-2001
+124-Canada-2002
+124-Canada-2003
+124-Canada-2004
+124-Canada-2005
+124-Canada-2006
+124-Canada-2007
+124-Canada-2008
+124-Canada-2009
+124-Canada-2010
+124-Canada-2011
+124-Canada-2012
+124-Canada-2013
+124-Canada-2014
+124-Canada-2015
+124-Canada-2016
+124-Canada-2017
+124-Canada-2018
+124-Canada-2019
+152-Chile-2000
+152-Chile-2001
+152-Chile-2002
+152-Chile-2003
+152-Chile-2004
+152-Chile-2005
+152-Chile-2006
+152-Chile-2007
+152-Chile-2008
+152-Chile-2009
+152-Chile-2010
+152-Chile-2011
+152-Chile-2012
+152-Chile-2013
+152-Chile-2014
+152-Chile-2015
+152-Chile-2016
+152-Chile-2017
+152-Chile-2018
+152-Chile-2019
+156-China-2000
+156-China-2001
+156-China-2002
+156-China-2003
+156-China-2004
+156-China-2005
+156-China-2006
+156-China-2007
+156-China-2008
+156-China-2009
+156-China-2010
+156-China-2011
+156-China-2012
+156-China-2013
+156-China-2014
+156-China-2015
+156-China-2016
+156-China-2017
+156-China-2018
+156-China-2019
+344-China, Hong Kong SAR-2000
+344-China, Hong Kong SAR-2001
+344-China, Hong Kong SAR-2002
+344-China, Hong Kong SAR-2003
+344-China, Hong Kong SAR-2004
+344-China, Hong Kong SAR-2005
+344-China, Hong Kong SAR-2006
+344-China, Hong Kong SAR-2007
+344-China, Hong Kong SAR-2008
+344-China, Hong Kong SAR-2009
+344-China, Hong Kong SAR-2010
+344-China, Hong Kong SAR-2011
+344-China, Hong Kong SAR-2012
+344-China, Hong Kong SAR-2013
+344-China, Hong Kong SAR-2014
+344-China, Hong Kong SAR-2015
+344-China, Hong Kong SAR-2016
+344-China, Hong Kong SAR-2017
+344-China, Hong Kong SAR-2018
+344-China, Hong Kong SAR-2019
+446-China, Macao SAR-2000
+446-China, Macao SAR-2001
+446-China, Macao SAR-2002
+446-China, Macao SAR-2003
+446-China, Macao SAR-2004
+446-China, Macao SAR-2005
+446-China, Macao SAR-2006
+446-China, Macao SAR-2007
+446-China, Macao SAR-2008
+446-China, Macao SAR-2009
+446-China, Macao SAR-2010
+446-China, Macao SAR-2011
+446-China, Macao SAR-2012
+446-China, Macao SAR-2013
+446-China, Macao SAR-2014
+446-China, Macao SAR-2015
+446-China, Macao SAR-2016
+446-China, Macao SAR-2017
+446-China, Macao SAR-2018
+446-China, Macao SAR-2019
+170-Colombia-2000
+170-Colombia-2001
+170-Colombia-2002
+170-Colombia-2003
+170-Colombia-2004
+170-Colombia-2005
+170-Colombia-2006
+170-Colombia-2007
+170-Colombia-2008
+170-Colombia-2009
+170-Colombia-2010
+170-Colombia-2011
+170-Colombia-2012
+170-Colombia-2013
+170-Colombia-2014
+170-Colombia-2015
+170-Colombia-2016
+170-Colombia-2017
+170-Colombia-2018
+170-Colombia-2019
+188-Costa Rica-2000
+188-Costa Rica-2001
+188-Costa Rica-2002
+188-Costa Rica-2003
+188-Costa Rica-2004
+188-Costa Rica-2005
+188-Costa Rica-2006
+188-Costa Rica-2007
+188-Costa Rica-2008
+188-Costa Rica-2009
+188-Costa Rica-2010
+188-Costa Rica-2011
+188-Costa Rica-2012
+188-Costa Rica-2013
+188-Costa Rica-2014
+188-Costa Rica-2015
+188-Costa Rica-2016
+188-Costa Rica-2017
+188-Costa Rica-2018
+188-Costa Rica-2019
+384-Côte d'Ivoire-2000
+384-Côte d'Ivoire-2001
+384-Côte d'Ivoire-2002
+384-Côte d'Ivoire-2003
+384-Côte d'Ivoire-2004
+384-Côte d'Ivoire-2005
+384-Côte d'Ivoire-2006
+384-Côte d'Ivoire-2007
+384-Côte d'Ivoire-2008
+384-Côte d'Ivoire-2009
+384-Côte d'Ivoire-2010
+384-Côte d'Ivoire-2011
+384-Côte d'Ivoire-2012
+384-Côte d'Ivoire-2013
+384-Côte d'Ivoire-2014
+384-Côte d'Ivoire-2015
+384-Côte d'Ivoire-2016
+384-Côte d'Ivoire-2017
+384-Côte d'Ivoire-2018
+384-Côte d'Ivoire-2019
+191-Croatia-2000
+191-Croatia-2001
+191-Croatia-2002
+191-Croatia-2003
+191-Croatia-2004
+191-Croatia-2005
+191-Croatia-2006
+191-Croatia-2007
+191-Croatia-2008
+191-Croatia-2009
+191-Croatia-2010
+191-Croatia-2011
+191-Croatia-2012
+191-Croatia-2013
+191-Croatia-2014
+191-Croatia-2015
+191-Croatia-2016
+191-Croatia-2017
+191-Croatia-2018
+191-Croatia-2019
+192-Cuba-2000
+192-Cuba-2001
+192-Cuba-2002
+192-Cuba-2003
+192-Cuba-2004
+192-Cuba-2005
+192-Cuba-2006
+192-Cuba-2007
+192-Cuba-2008
+192-Cuba-2009
+192-Cuba-2010
+192-Cuba-2011
+192-Cuba-2012
+192-Cuba-2013
+192-Cuba-2014
+192-Cuba-2015
+192-Cuba-2016
+192-Cuba-2017
+192-Cuba-2018
+192-Cuba-2019
+218-Ecuador-2000
+218-Ecuador-2001
+218-Ecuador-2002
+218-Ecuador-2003
+218-Ecuador-2004
+218-Ecuador-2005
+218-Ecuador-2006
+218-Ecuador-2007
+218-Ecuador-2008
+218-Ecuador-2009
+218-Ecuador-2010
+218-Ecuador-2011
+218-Ecuador-2012
+218-Ecuador-2013
+218-Ecuador-2014
+218-Ecuador-2015
+218-Ecuador-2016
+218-Ecuador-2017
+218-Ecuador-2018
+218-Ecuador-2019
+818-Egypt-2000
+818-Egypt-2001
+818-Egypt-2002
+818-Egypt-2003
+818-Egypt-2004
+818-Egypt-2005
+818-Egypt-2006
+818-Egypt-2007
+818-Egypt-2008
+818-Egypt-2009
+818-Egypt-2010
+818-Egypt-2011
+818-Egypt-2012
+818-Egypt-2013
+818-Egypt-2014
+818-Egypt-2015
+818-Egypt-2016
+818-Egypt-2017
+818-Egypt-2018
+818-Egypt-2019
+222-El Salvador-2000
+222-El Salvador-2001
+222-El Salvador-2002
+222-El Salvador-2003
+222-El Salvador-2004
+222-El Salvador-2005
+222-El Salvador-2006
+222-El Salvador-2007
+222-El Salvador-2008
+222-El Salvador-2009
+222-El Salvador-2010
+222-El Salvador-2011
+222-El Salvador-2012
+222-El Salvador-2013
+222-El Salvador-2014
+222-El Salvador-2015
+222-El Salvador-2016
+222-El Salvador-2017
+222-El Salvador-2018
+222-El Salvador-2019
+233-Estonia-2000
+233-Estonia-2001
+233-Estonia-2002
+233-Estonia-2003
+233-Estonia-2004
+233-Estonia-2005
+233-Estonia-2006
+233-Estonia-2007
+233-Estonia-2008
+233-Estonia-2009
+233-Estonia-2010
+233-Estonia-2011
+233-Estonia-2012
+233-Estonia-2013
+233-Estonia-2014
+233-Estonia-2015
+233-Estonia-2016
+233-Estonia-2017
+233-Estonia-2018
+233-Estonia-2019
+234-Faeroe Isds-2000
+234-Faeroe Isds-2001
+234-Faeroe Isds-2002
+234-Faeroe Isds-2003
+234-Faeroe Isds-2004
+234-Faeroe Isds-2005
+234-Faeroe Isds-2006
+234-Faeroe Isds-2007
+234-Faeroe Isds-2008
+234-Faeroe Isds-2009
+234-Faeroe Isds-2010
+234-Faeroe Isds-2011
+234-Faeroe Isds-2012
+234-Faeroe Isds-2013
+234-Faeroe Isds-2014
+234-Faeroe Isds-2015
+234-Faeroe Isds-2016
+234-Faeroe Isds-2017
+234-Faeroe Isds-2018
+234-Faeroe Isds-2019
+866-Fmr Dem. Rep. of Vietnam-2000
+866-Fmr Dem. Rep. of Vietnam-2001
+866-Fmr Dem. Rep. of Vietnam-2002
+866-Fmr Dem. Rep. of Vietnam-2003
+866-Fmr Dem. Rep. of Vietnam-2004
+866-Fmr Dem. Rep. of Vietnam-2005
+866-Fmr Dem. Rep. of Vietnam-2006
+866-Fmr Dem. Rep. of Vietnam-2007
+866-Fmr Dem. Rep. of Vietnam-2008
+866-Fmr Dem. Rep. of Vietnam-2009
+866-Fmr Dem. Rep. of Vietnam-2010
+866-Fmr Dem. Rep. of Vietnam-2011
+866-Fmr Dem. Rep. of Vietnam-2012
+866-Fmr Dem. Rep. of Vietnam-2013
+866-Fmr Dem. Rep. of Vietnam-2014
+866-Fmr Dem. Rep. of Vietnam-2015
+866-Fmr Dem. Rep. of Vietnam-2016
+866-Fmr Dem. Rep. of Vietnam-2017
+866-Fmr Dem. Rep. of Vietnam-2018
+866-Fmr Dem. Rep. of Vietnam-2019
+590-Fmr Panama, excl.Canal Zone-2000
+590-Fmr Panama, excl.Canal Zone-2001
+590-Fmr Panama, excl.Canal Zone-2002
+590-Fmr Panama, excl.Canal Zone-2003
+590-Fmr Panama, excl.Canal Zone-2004
+590-Fmr Panama, excl.Canal Zone-2005
+590-Fmr Panama, excl.Canal Zone-2006
+590-Fmr Panama, excl.Canal Zone-2007
+590-Fmr Panama, excl.Canal Zone-2008
+590-Fmr Panama, excl.Canal Zone-2009
+590-Fmr Panama, excl.Canal Zone-2010
+590-Fmr Panama, excl.Canal Zone-2011
+590-Fmr Panama, excl.Canal Zone-2012
+590-Fmr Panama, excl.Canal Zone-2013
+590-Fmr Panama, excl.Canal Zone-2014
+590-Fmr Panama, excl.Canal Zone-2015
+590-Fmr Panama, excl.Canal Zone-2016
+590-Fmr Panama, excl.Canal Zone-2017
+590-Fmr Panama, excl.Canal Zone-2018
+590-Fmr Panama, excl.Canal Zone-2019
+592-Fmr Panama-Canal-Zone-2000
+592-Fmr Panama-Canal-Zone-2001
+592-Fmr Panama-Canal-Zone-2002
+592-Fmr Panama-Canal-Zone-2003
+592-Fmr Panama-Canal-Zone-2004
+592-Fmr Panama-Canal-Zone-2005
+592-Fmr Panama-Canal-Zone-2006
+592-Fmr Panama-Canal-Zone-2007
+592-Fmr Panama-Canal-Zone-2008
+592-Fmr Panama-Canal-Zone-2009
+592-Fmr Panama-Canal-Zone-2010
+592-Fmr Panama-Canal-Zone-2011
+592-Fmr Panama-Canal-Zone-2012
+592-Fmr Panama-Canal-Zone-2013
+592-Fmr Panama-Canal-Zone-2014
+592-Fmr Panama-Canal-Zone-2015
+592-Fmr Panama-Canal-Zone-2016
+592-Fmr Panama-Canal-Zone-2017
+592-Fmr Panama-Canal-Zone-2018
+592-Fmr Panama-Canal-Zone-2019
+868-Fmr Rep. of Vietnam-2000
+868-Fmr Rep. of Vietnam-2001
+868-Fmr Rep. of Vietnam-2002
+868-Fmr Rep. of Vietnam-2003
+868-Fmr Rep. of Vietnam-2004
+868-Fmr Rep. of Vietnam-2005
+868-Fmr Rep. of Vietnam-2006
+868-Fmr Rep. of Vietnam-2007
+868-Fmr Rep. of Vietnam-2008
+868-Fmr Rep. of Vietnam-2009
+868-Fmr Rep. of Vietnam-2010
+868-Fmr Rep. of Vietnam-2011
+868-Fmr Rep. of Vietnam-2012
+868-Fmr Rep. of Vietnam-2013
+868-Fmr Rep. of Vietnam-2014
+868-Fmr Rep. of Vietnam-2015
+868-Fmr Rep. of Vietnam-2016
+868-Fmr Rep. of Vietnam-2017
+868-Fmr Rep. of Vietnam-2018
+868-Fmr Rep. of Vietnam-2019
+268-Georgia-2000
+268-Georgia-2001
+268-Georgia-2002
+268-Georgia-2003
+268-Georgia-2004
+268-Georgia-2005
+268-Georgia-2006
+268-Georgia-2007
+268-Georgia-2008
+268-Georgia-2009
+268-Georgia-2010
+268-Georgia-2011
+268-Georgia-2012
+268-Georgia-2013
+268-Georgia-2014
+268-Georgia-2015
+268-Georgia-2016
+268-Georgia-2017
+268-Georgia-2018
+268-Georgia-2019
+288-Ghana-2000
+288-Ghana-2001
+288-Ghana-2002
+288-Ghana-2003
+288-Ghana-2004
+288-Ghana-2005
+288-Ghana-2006
+288-Ghana-2007
+288-Ghana-2008
+288-Ghana-2009
+288-Ghana-2010
+288-Ghana-2011
+288-Ghana-2012
+288-Ghana-2013
+288-Ghana-2014
+288-Ghana-2015
+288-Ghana-2016
+288-Ghana-2017
+288-Ghana-2018
+288-Ghana-2019
+320-Guatemala-2000
+320-Guatemala-2001
+320-Guatemala-2002
+320-Guatemala-2003
+320-Guatemala-2004
+320-Guatemala-2005
+320-Guatemala-2006
+320-Guatemala-2007
+320-Guatemala-2008
+320-Guatemala-2009
+320-Guatemala-2010
+320-Guatemala-2011
+320-Guatemala-2012
+320-Guatemala-2013
+320-Guatemala-2014
+320-Guatemala-2015
+320-Guatemala-2016
+320-Guatemala-2017
+320-Guatemala-2018
+320-Guatemala-2019
+340-Honduras-2000
+340-Honduras-2001
+340-Honduras-2002
+340-Honduras-2003
+340-Honduras-2004
+340-Honduras-2005
+340-Honduras-2006
+340-Honduras-2007
+340-Honduras-2008
+340-Honduras-2009
+340-Honduras-2010
+340-Honduras-2011
+340-Honduras-2012
+340-Honduras-2013
+340-Honduras-2014
+340-Honduras-2015
+340-Honduras-2016
+340-Honduras-2017
+340-Honduras-2018
+340-Honduras-2019
+348-Hungary-2000
+348-Hungary-2001
+348-Hungary-2002
+348-Hungary-2003
+348-Hungary-2004
+348-Hungary-2005
+348-Hungary-2006
+348-Hungary-2007
+348-Hungary-2008
+348-Hungary-2009
+348-Hungary-2010
+348-Hungary-2011
+348-Hungary-2012
+348-Hungary-2013
+348-Hungary-2014
+348-Hungary-2015
+348-Hungary-2016
+348-Hungary-2017
+348-Hungary-2018
+348-Hungary-2019
+352-Iceland-2000
+352-Iceland-2001
+352-Iceland-2002
+352-Iceland-2003
+352-Iceland-2004
+352-Iceland-2005
+352-Iceland-2006
+352-Iceland-2007
+352-Iceland-2008
+352-Iceland-2009
+352-Iceland-2010
+352-Iceland-2011
+352-Iceland-2012
+352-Iceland-2013
+352-Iceland-2014
+352-Iceland-2015
+352-Iceland-2016
+352-Iceland-2017
+352-Iceland-2018
+352-Iceland-2019
+699-India-2000
+699-India-2001
+699-India-2002
+699-India-2003
+699-India-2004
+699-India-2005
+699-India-2006
+699-India-2007
+699-India-2008
+699-India-2009
+699-India-2010
+699-India-2011
+699-India-2012
+699-India-2013
+699-India-2014
+699-India-2015
+699-India-2016
+699-India-2017
+699-India-2018
+699-India-2019
+356-India [...1974]-2000
+356-India [...1974]-2001
+356-India [...1974]-2002
+356-India [...1974]-2003
+356-India [...1974]-2004
+356-India [...1974]-2005
+356-India [...1974]-2006
+356-India [...1974]-2007
+356-India [...1974]-2008
+356-India [...1974]-2009
+356-India [...1974]-2010
+356-India [...1974]-2011
+356-India [...1974]-2012
+356-India [...1974]-2013
+356-India [...1974]-2014
+356-India [...1974]-2015
+356-India [...1974]-2016
+356-India [...1974]-2017
+356-India [...1974]-2018
+356-India [...1974]-2019
+360-Indonesia-2000
+360-Indonesia-2001
+360-Indonesia-2002
+360-Indonesia-2003
+360-Indonesia-2004
+360-Indonesia-2005
+360-Indonesia-2006
+360-Indonesia-2007
+360-Indonesia-2008
+360-Indonesia-2009
+360-Indonesia-2010
+360-Indonesia-2011
+360-Indonesia-2012
+360-Indonesia-2013
+360-Indonesia-2014
+360-Indonesia-2015
+360-Indonesia-2016
+360-Indonesia-2017
+360-Indonesia-2018
+360-Indonesia-2019
+376-Israel-2000
+376-Israel-2001
+376-Israel-2002
+376-Israel-2003
+376-Israel-2004
+376-Israel-2005
+376-Israel-2006
+376-Israel-2007
+376-Israel-2008
+376-Israel-2009
+376-Israel-2010
+376-Israel-2011
+376-Israel-2012
+376-Israel-2013
+376-Israel-2014
+376-Israel-2015
+376-Israel-2016
+376-Israel-2017
+376-Israel-2018
+376-Israel-2019
+392-Japan-2000
+392-Japan-2001
+392-Japan-2002
+392-Japan-2003
+392-Japan-2004
+392-Japan-2005
+392-Japan-2006
+392-Japan-2007
+392-Japan-2008
+392-Japan-2009
+392-Japan-2010
+392-Japan-2011
+392-Japan-2012
+392-Japan-2013
+392-Japan-2014
+392-Japan-2015
+392-Japan-2016
+392-Japan-2017
+392-Japan-2018
+392-Japan-2019
+400-Jordan-2000
+400-Jordan-2001
+400-Jordan-2002
+400-Jordan-2003
+400-Jordan-2004
+400-Jordan-2005
+400-Jordan-2006
+400-Jordan-2007
+400-Jordan-2008
+400-Jordan-2009
+400-Jordan-2010
+400-Jordan-2011
+400-Jordan-2012
+400-Jordan-2013
+400-Jordan-2014
+400-Jordan-2015
+400-Jordan-2016
+400-Jordan-2017
+400-Jordan-2018
+400-Jordan-2019
+398-Kazakhstan-2000
+398-Kazakhstan-2001
+398-Kazakhstan-2002
+398-Kazakhstan-2003
+398-Kazakhstan-2004
+398-Kazakhstan-2005
+398-Kazakhstan-2006
+398-Kazakhstan-2007
+398-Kazakhstan-2008
+398-Kazakhstan-2009
+398-Kazakhstan-2010
+398-Kazakhstan-2011
+398-Kazakhstan-2012
+398-Kazakhstan-2013
+398-Kazakhstan-2014
+398-Kazakhstan-2015
+398-Kazakhstan-2016
+398-Kazakhstan-2017
+398-Kazakhstan-2018
+398-Kazakhstan-2019
+404-Kenya-2000
+404-Kenya-2001
+404-Kenya-2002
+404-Kenya-2003
+404-Kenya-2004
+404-Kenya-2005
+404-Kenya-2006
+404-Kenya-2007
+404-Kenya-2008
+404-Kenya-2009
+404-Kenya-2010
+404-Kenya-2011
+404-Kenya-2012
+404-Kenya-2013
+404-Kenya-2014
+404-Kenya-2015
+404-Kenya-2016
+404-Kenya-2017
+404-Kenya-2018
+404-Kenya-2019
+428-Latvia-2000
+428-Latvia-2001
+428-Latvia-2002
+428-Latvia-2003
+428-Latvia-2004
+428-Latvia-2005
+428-Latvia-2006
+428-Latvia-2007
+428-Latvia-2008
+428-Latvia-2009
+428-Latvia-2010
+428-Latvia-2011
+428-Latvia-2012
+428-Latvia-2013
+428-Latvia-2014
+428-Latvia-2015
+428-Latvia-2016
+428-Latvia-2017
+428-Latvia-2018
+428-Latvia-2019
+422-Lebanon-2000
+422-Lebanon-2001
+422-Lebanon-2002
+422-Lebanon-2003
+422-Lebanon-2004
+422-Lebanon-2005
+422-Lebanon-2006
+422-Lebanon-2007
+422-Lebanon-2008
+422-Lebanon-2009
+422-Lebanon-2010
+422-Lebanon-2011
+422-Lebanon-2012
+422-Lebanon-2013
+422-Lebanon-2014
+422-Lebanon-2015
+422-Lebanon-2016
+422-Lebanon-2017
+422-Lebanon-2018
+422-Lebanon-2019
+440-Lithuania-2000
+440-Lithuania-2001
+440-Lithuania-2002
+440-Lithuania-2003
+440-Lithuania-2004
+440-Lithuania-2005
+440-Lithuania-2006
+440-Lithuania-2007
+440-Lithuania-2008
+440-Lithuania-2009
+440-Lithuania-2010
+440-Lithuania-2011
+440-Lithuania-2012
+440-Lithuania-2013
+440-Lithuania-2014
+440-Lithuania-2015
+440-Lithuania-2016
+440-Lithuania-2017
+440-Lithuania-2018
+440-Lithuania-2019
+458-Malaysia-2000
+458-Malaysia-2001
+458-Malaysia-2002
+458-Malaysia-2003
+458-Malaysia-2004
+458-Malaysia-2005
+458-Malaysia-2006
+458-Malaysia-2007
+458-Malaysia-2008
+458-Malaysia-2009
+458-Malaysia-2010
+458-Malaysia-2011
+458-Malaysia-2012
+458-Malaysia-2013
+458-Malaysia-2014
+458-Malaysia-2015
+458-Malaysia-2016
+458-Malaysia-2017
+458-Malaysia-2018
+458-Malaysia-2019
+480-Mauritius-2000
+480-Mauritius-2001
+480-Mauritius-2002
+480-Mauritius-2003
+480-Mauritius-2004
+480-Mauritius-2005
+480-Mauritius-2006
+480-Mauritius-2007
+480-Mauritius-2008
+480-Mauritius-2009
+480-Mauritius-2010
+480-Mauritius-2011
+480-Mauritius-2012
+480-Mauritius-2013
+480-Mauritius-2014
+480-Mauritius-2015
+480-Mauritius-2016
+480-Mauritius-2017
+480-Mauritius-2018
+480-Mauritius-2019
+484-Mexico-2000
+484-Mexico-2001
+484-Mexico-2002
+484-Mexico-2003
+484-Mexico-2004
+484-Mexico-2005
+484-Mexico-2006
+484-Mexico-2007
+484-Mexico-2008
+484-Mexico-2009
+484-Mexico-2010
+484-Mexico-2011
+484-Mexico-2012
+484-Mexico-2013
+484-Mexico-2014
+484-Mexico-2015
+484-Mexico-2016
+484-Mexico-2017
+484-Mexico-2018
+484-Mexico-2019
+496-Mongolia-2000
+496-Mongolia-2001
+496-Mongolia-2002
+496-Mongolia-2003
+496-Mongolia-2004
+496-Mongolia-2005
+496-Mongolia-2006
+496-Mongolia-2007
+496-Mongolia-2008
+496-Mongolia-2009
+496-Mongolia-2010
+496-Mongolia-2011
+496-Mongolia-2012
+496-Mongolia-2013
+496-Mongolia-2014
+496-Mongolia-2015
+496-Mongolia-2016
+496-Mongolia-2017
+496-Mongolia-2018
+496-Mongolia-2019
+499-Montenegro-2000
+499-Montenegro-2001
+499-Montenegro-2002
+499-Montenegro-2003
+499-Montenegro-2004
+499-Montenegro-2005
+499-Montenegro-2006
+499-Montenegro-2007
+499-Montenegro-2008
+499-Montenegro-2009
+499-Montenegro-2010
+499-Montenegro-2011
+499-Montenegro-2012
+499-Montenegro-2013
+499-Montenegro-2014
+499-Montenegro-2015
+499-Montenegro-2016
+499-Montenegro-2017
+499-Montenegro-2018
+499-Montenegro-2019
+504-Morocco-2000
+504-Morocco-2001
+504-Morocco-2002
+504-Morocco-2003
+504-Morocco-2004
+504-Morocco-2005
+504-Morocco-2006
+504-Morocco-2007
+504-Morocco-2008
+504-Morocco-2009
+504-Morocco-2010
+504-Morocco-2011
+504-Morocco-2012
+504-Morocco-2013
+504-Morocco-2014
+504-Morocco-2015
+504-Morocco-2016
+504-Morocco-2017
+504-Morocco-2018
+504-Morocco-2019
+524-Nepal-2000
+524-Nepal-2001
+524-Nepal-2002
+524-Nepal-2003
+524-Nepal-2004
+524-Nepal-2005
+524-Nepal-2006
+524-Nepal-2007
+524-Nepal-2008
+524-Nepal-2009
+524-Nepal-2010
+524-Nepal-2011
+524-Nepal-2012
+524-Nepal-2013
+524-Nepal-2014
+524-Nepal-2015
+524-Nepal-2016
+524-Nepal-2017
+524-Nepal-2018
+524-Nepal-2019
+554-New Zealand-2000
+554-New Zealand-2001
+554-New Zealand-2002
+554-New Zealand-2003
+554-New Zealand-2004
+554-New Zealand-2005
+554-New Zealand-2006
+554-New Zealand-2007
+554-New Zealand-2008
+554-New Zealand-2009
+554-New Zealand-2010
+554-New Zealand-2011
+554-New Zealand-2012
+554-New Zealand-2013
+554-New Zealand-2014
+554-New Zealand-2015
+554-New Zealand-2016
+554-New Zealand-2017
+554-New Zealand-2018
+554-New Zealand-2019
+558-Nicaragua-2000
+558-Nicaragua-2001
+558-Nicaragua-2002
+558-Nicaragua-2003
+558-Nicaragua-2004
+558-Nicaragua-2005
+558-Nicaragua-2006
+558-Nicaragua-2007
+558-Nicaragua-2008
+558-Nicaragua-2009
+558-Nicaragua-2010
+558-Nicaragua-2011
+558-Nicaragua-2012
+558-Nicaragua-2013
+558-Nicaragua-2014
+558-Nicaragua-2015
+558-Nicaragua-2016
+558-Nicaragua-2017
+558-Nicaragua-2018
+558-Nicaragua-2019
+512-Oman-2000
+512-Oman-2001
+512-Oman-2002
+512-Oman-2003
+512-Oman-2004
+512-Oman-2005
+512-Oman-2006
+512-Oman-2007
+512-Oman-2008
+512-Oman-2009
+512-Oman-2010
+512-Oman-2011
+512-Oman-2012
+512-Oman-2013
+512-Oman-2014
+512-Oman-2015
+512-Oman-2016
+512-Oman-2017
+512-Oman-2018
+512-Oman-2019
+586-Pakistan-2000
+586-Pakistan-2001
+586-Pakistan-2002
+586-Pakistan-2003
+586-Pakistan-2004
+586-Pakistan-2005
+586-Pakistan-2006
+586-Pakistan-2007
+586-Pakistan-2008
+586-Pakistan-2009
+586-Pakistan-2010
+586-Pakistan-2011
+586-Pakistan-2012
+586-Pakistan-2013
+586-Pakistan-2014
+586-Pakistan-2015
+586-Pakistan-2016
+586-Pakistan-2017
+586-Pakistan-2018
+586-Pakistan-2019
+591-Panama-2000
+591-Panama-2001
+591-Panama-2002
+591-Panama-2003
+591-Panama-2004
+591-Panama-2005
+591-Panama-2006
+591-Panama-2007
+591-Panama-2008
+591-Panama-2009
+591-Panama-2010
+591-Panama-2011
+591-Panama-2012
+591-Panama-2013
+591-Panama-2014
+591-Panama-2015
+591-Panama-2016
+591-Panama-2017
+591-Panama-2018
+591-Panama-2019
+459-Peninsula Malaysia-2000
+459-Peninsula Malaysia-2001
+459-Peninsula Malaysia-2002
+459-Peninsula Malaysia-2003
+459-Peninsula Malaysia-2004
+459-Peninsula Malaysia-2005
+459-Peninsula Malaysia-2006
+459-Peninsula Malaysia-2007
+459-Peninsula Malaysia-2008
+459-Peninsula Malaysia-2009
+459-Peninsula Malaysia-2010
+459-Peninsula Malaysia-2011
+459-Peninsula Malaysia-2012
+459-Peninsula Malaysia-2013
+459-Peninsula Malaysia-2014
+459-Peninsula Malaysia-2015
+459-Peninsula Malaysia-2016
+459-Peninsula Malaysia-2017
+459-Peninsula Malaysia-2018
+459-Peninsula Malaysia-2019
+604-Peru-2000
+604-Peru-2001
+604-Peru-2002
+604-Peru-2003
+604-Peru-2004
+604-Peru-2005
+604-Peru-2006
+604-Peru-2007
+604-Peru-2008
+604-Peru-2009
+604-Peru-2010
+604-Peru-2011
+604-Peru-2012
+604-Peru-2013
+604-Peru-2014
+604-Peru-2015
+604-Peru-2016
+604-Peru-2017
+604-Peru-2018
+604-Peru-2019
+608-Philippines-2000
+608-Philippines-2001
+608-Philippines-2002
+608-Philippines-2003
+608-Philippines-2004
+608-Philippines-2005
+608-Philippines-2006
+608-Philippines-2007
+608-Philippines-2008
+608-Philippines-2009
+608-Philippines-2010
+608-Philippines-2011
+608-Philippines-2012
+608-Philippines-2013
+608-Philippines-2014
+608-Philippines-2015
+608-Philippines-2016
+608-Philippines-2017
+608-Philippines-2018
+608-Philippines-2019
+616-Poland-2000
+616-Poland-2001
+616-Poland-2002
+616-Poland-2003
+616-Poland-2004
+616-Poland-2005
+616-Poland-2006
+616-Poland-2007
+616-Poland-2008
+616-Poland-2009
+616-Poland-2010
+616-Poland-2011
+616-Poland-2012
+616-Poland-2013
+616-Poland-2014
+616-Poland-2015
+616-Poland-2016
+616-Poland-2017
+616-Poland-2018
+616-Poland-2019
+410-Rep. of Korea-2000
+410-Rep. of Korea-2001
+410-Rep. of Korea-2002
+410-Rep. of Korea-2003
+410-Rep. of Korea-2004
+410-Rep. of Korea-2005
+410-Rep. of Korea-2006
+410-Rep. of Korea-2007
+410-Rep. of Korea-2008
+410-Rep. of Korea-2009
+410-Rep. of Korea-2010
+410-Rep. of Korea-2011
+410-Rep. of Korea-2012
+410-Rep. of Korea-2013
+410-Rep. of Korea-2014
+410-Rep. of Korea-2015
+410-Rep. of Korea-2016
+410-Rep. of Korea-2017
+410-Rep. of Korea-2018
+410-Rep. of Korea-2019
+498-Rep. of Moldova-2000
+498-Rep. of Moldova-2001
+498-Rep. of Moldova-2002
+498-Rep. of Moldova-2003
+498-Rep. of Moldova-2004
+498-Rep. of Moldova-2005
+498-Rep. of Moldova-2006
+498-Rep. of Moldova-2007
+498-Rep. of Moldova-2008
+498-Rep. of Moldova-2009
+498-Rep. of Moldova-2010
+498-Rep. of Moldova-2011
+498-Rep. of Moldova-2012
+498-Rep. of Moldova-2013
+498-Rep. of Moldova-2014
+498-Rep. of Moldova-2015
+498-Rep. of Moldova-2016
+498-Rep. of Moldova-2017
+498-Rep. of Moldova-2018
+498-Rep. of Moldova-2019
+642-Romania-2000
+642-Romania-2001
+642-Romania-2002
+642-Romania-2003
+642-Romania-2004
+642-Romania-2005
+642-Romania-2006
+642-Romania-2007
+642-Romania-2008
+642-Romania-2009
+642-Romania-2010
+642-Romania-2011
+642-Romania-2012
+642-Romania-2013
+642-Romania-2014
+642-Romania-2015
+642-Romania-2016
+642-Romania-2017
+642-Romania-2018
+642-Romania-2019
+643-Russian Federation-2000
+643-Russian Federation-2001
+643-Russian Federation-2002
+643-Russian Federation-2003
+643-Russian Federation-2004
+643-Russian Federation-2005
+643-Russian Federation-2006
+643-Russian Federation-2007
+643-Russian Federation-2008
+643-Russian Federation-2009
+643-Russian Federation-2010
+643-Russian Federation-2011
+643-Russian Federation-2012
+643-Russian Federation-2013
+643-Russian Federation-2014
+643-Russian Federation-2015
+643-Russian Federation-2016
+643-Russian Federation-2017
+643-Russian Federation-2018
+643-Russian Federation-2019
+688-Serbia-2000
+688-Serbia-2001
+688-Serbia-2002
+688-Serbia-2003
+688-Serbia-2004
+688-Serbia-2005
+688-Serbia-2006
+688-Serbia-2007
+688-Serbia-2008
+688-Serbia-2009
+688-Serbia-2010
+688-Serbia-2011
+688-Serbia-2012
+688-Serbia-2013
+688-Serbia-2014
+688-Serbia-2015
+688-Serbia-2016
+688-Serbia-2017
+688-Serbia-2018
+688-Serbia-2019
+702-Singapore-2000
+702-Singapore-2001
+702-Singapore-2002
+702-Singapore-2003
+702-Singapore-2004
+702-Singapore-2005
+702-Singapore-2006
+702-Singapore-2007
+702-Singapore-2008
+702-Singapore-2009
+702-Singapore-2010
+702-Singapore-2011
+702-Singapore-2012
+702-Singapore-2013
+702-Singapore-2014
+702-Singapore-2015
+702-Singapore-2016
+702-Singapore-2017
+702-Singapore-2018
+702-Singapore-2019
+705-Slovenia-2000
+705-Slovenia-2001
+705-Slovenia-2002
+705-Slovenia-2003
+705-Slovenia-2004
+705-Slovenia-2005
+705-Slovenia-2006
+705-Slovenia-2007
+705-Slovenia-2008
+705-Slovenia-2009
+705-Slovenia-2010
+705-Slovenia-2011
+705-Slovenia-2012
+705-Slovenia-2013
+705-Slovenia-2014
+705-Slovenia-2015
+705-Slovenia-2016
+705-Slovenia-2017
+705-Slovenia-2018
+705-Slovenia-2019
+144-Sri Lanka-2000
+144-Sri Lanka-2001
+144-Sri Lanka-2002
+144-Sri Lanka-2003
+144-Sri Lanka-2004
+144-Sri Lanka-2005
+144-Sri Lanka-2006
+144-Sri Lanka-2007
+144-Sri Lanka-2008
+144-Sri Lanka-2009
+144-Sri Lanka-2010
+144-Sri Lanka-2011
+144-Sri Lanka-2012
+144-Sri Lanka-2013
+144-Sri Lanka-2014
+144-Sri Lanka-2015
+144-Sri Lanka-2016
+144-Sri Lanka-2017
+144-Sri Lanka-2018
+144-Sri Lanka-2019
+275-State of Palestine-2000
+275-State of Palestine-2001
+275-State of Palestine-2002
+275-State of Palestine-2003
+275-State of Palestine-2004
+275-State of Palestine-2005
+275-State of Palestine-2006
+275-State of Palestine-2007
+275-State of Palestine-2008
+275-State of Palestine-2009
+275-State of Palestine-2010
+275-State of Palestine-2011
+275-State of Palestine-2012
+275-State of Palestine-2013
+275-State of Palestine-2014
+275-State of Palestine-2015
+275-State of Palestine-2016
+275-State of Palestine-2017
+275-State of Palestine-2018
+275-State of Palestine-2019
+757-Switzerland-2000
+757-Switzerland-2001
+757-Switzerland-2002
+757-Switzerland-2003
+757-Switzerland-2004
+757-Switzerland-2005
+757-Switzerland-2006
+757-Switzerland-2007
+757-Switzerland-2008
+757-Switzerland-2009
+757-Switzerland-2010
+757-Switzerland-2011
+757-Switzerland-2012
+757-Switzerland-2013
+757-Switzerland-2014
+757-Switzerland-2015
+757-Switzerland-2016
+757-Switzerland-2017
+757-Switzerland-2018
+757-Switzerland-2019
+760-Syria-2000
+760-Syria-2001
+760-Syria-2002
+760-Syria-2003
+760-Syria-2004
+760-Syria-2005
+760-Syria-2006
+760-Syria-2007
+760-Syria-2008
+760-Syria-2009
+760-Syria-2010
+760-Syria-2011
+760-Syria-2012
+760-Syria-2013
+760-Syria-2014
+760-Syria-2015
+760-Syria-2016
+760-Syria-2017
+760-Syria-2018
+760-Syria-2019
+762-Tajikistan-2000
+762-Tajikistan-2001
+762-Tajikistan-2002
+762-Tajikistan-2003
+762-Tajikistan-2004
+762-Tajikistan-2005
+762-Tajikistan-2006
+762-Tajikistan-2007
+762-Tajikistan-2008
+762-Tajikistan-2009
+762-Tajikistan-2010
+762-Tajikistan-2011
+762-Tajikistan-2012
+762-Tajikistan-2013
+762-Tajikistan-2014
+762-Tajikistan-2015
+762-Tajikistan-2016
+762-Tajikistan-2017
+762-Tajikistan-2018
+762-Tajikistan-2019
+807-North Macedonia-2000
+807-North Macedonia-2001
+807-North Macedonia-2002
+807-North Macedonia-2003
+807-North Macedonia-2004
+807-North Macedonia-2005
+807-North Macedonia-2006
+807-North Macedonia-2007
+807-North Macedonia-2008
+807-North Macedonia-2009
+807-North Macedonia-2010
+807-North Macedonia-2011
+807-North Macedonia-2012
+807-North Macedonia-2013
+807-North Macedonia-2014
+807-North Macedonia-2015
+807-North Macedonia-2016
+807-North Macedonia-2017
+807-North Macedonia-2018
+807-North Macedonia-2019
+764-Thailand-2000
+764-Thailand-2001
+764-Thailand-2002
+764-Thailand-2003
+764-Thailand-2004
+764-Thailand-2005
+764-Thailand-2006
+764-Thailand-2007
+764-Thailand-2008
+764-Thailand-2009
+764-Thailand-2010
+764-Thailand-2011
+764-Thailand-2012
+764-Thailand-2013
+764-Thailand-2014
+764-Thailand-2015
+764-Thailand-2016
+764-Thailand-2017
+764-Thailand-2018
+764-Thailand-2019
+788-Tunisia-2000
+788-Tunisia-2001
+788-Tunisia-2002
+788-Tunisia-2003
+788-Tunisia-2004
+788-Tunisia-2005
+788-Tunisia-2006
+788-Tunisia-2007
+788-Tunisia-2008
+788-Tunisia-2009
+788-Tunisia-2010
+788-Tunisia-2011
+788-Tunisia-2012
+788-Tunisia-2013
+788-Tunisia-2014
+788-Tunisia-2015
+788-Tunisia-2016
+788-Tunisia-2017
+788-Tunisia-2018
+788-Tunisia-2019
+792-Turkey-2000
+792-Turkey-2001
+792-Turkey-2002
+792-Turkey-2003
+792-Turkey-2004
+792-Turkey-2005
+792-Turkey-2006
+792-Turkey-2007
+792-Turkey-2008
+792-Turkey-2009
+792-Turkey-2010
+792-Turkey-2011
+792-Turkey-2012
+792-Turkey-2013
+792-Turkey-2014
+792-Turkey-2015
+792-Turkey-2016
+792-Turkey-2017
+792-Turkey-2018
+792-Turkey-2019
+795-Turkmenistan-2000
+795-Turkmenistan-2001
+795-Turkmenistan-2002
+795-Turkmenistan-2003
+795-Turkmenistan-2004
+795-Turkmenistan-2005
+795-Turkmenistan-2006
+795-Turkmenistan-2007
+795-Turkmenistan-2008
+795-Turkmenistan-2009
+795-Turkmenistan-2010
+795-Turkmenistan-2011
+795-Turkmenistan-2012
+795-Turkmenistan-2013
+795-Turkmenistan-2014
+795-Turkmenistan-2015
+795-Turkmenistan-2016
+795-Turkmenistan-2017
+795-Turkmenistan-2018
+795-Turkmenistan-2019
+804-Ukraine-2000
+804-Ukraine-2001
+804-Ukraine-2002
+804-Ukraine-2003
+804-Ukraine-2004
+804-Ukraine-2005
+804-Ukraine-2006
+804-Ukraine-2007
+804-Ukraine-2008
+804-Ukraine-2009
+804-Ukraine-2010
+804-Ukraine-2011
+804-Ukraine-2012
+804-Ukraine-2013
+804-Ukraine-2014
+804-Ukraine-2015
+804-Ukraine-2016
+804-Ukraine-2017
+804-Ukraine-2018
+804-Ukraine-2019
+784-United Arab Emirates-2000
+784-United Arab Emirates-2001
+784-United Arab Emirates-2002
+784-United Arab Emirates-2003
+784-United Arab Emirates-2004
+784-United Arab Emirates-2005
+784-United Arab Emirates-2006
+784-United Arab Emirates-2007
+784-United Arab Emirates-2008
+784-United Arab Emirates-2009
+784-United Arab Emirates-2010
+784-United Arab Emirates-2011
+784-United Arab Emirates-2012
+784-United Arab Emirates-2013
+784-United Arab Emirates-2014
+784-United Arab Emirates-2015
+784-United Arab Emirates-2016
+784-United Arab Emirates-2017
+784-United Arab Emirates-2018
+784-United Arab Emirates-2019
+826-United Kingdom-2000
+826-United Kingdom-2001
+826-United Kingdom-2002
+826-United Kingdom-2003
+826-United Kingdom-2004
+826-United Kingdom-2005
+826-United Kingdom-2006
+826-United Kingdom-2007
+826-United Kingdom-2008
+826-United Kingdom-2009
+826-United Kingdom-2010
+826-United Kingdom-2011
+826-United Kingdom-2012
+826-United Kingdom-2013
+826-United Kingdom-2014
+826-United Kingdom-2015
+826-United Kingdom-2016
+826-United Kingdom-2017
+826-United Kingdom-2018
+826-United Kingdom-2019
+858-Uruguay-2000
+858-Uruguay-2001
+858-Uruguay-2002
+858-Uruguay-2003
+858-Uruguay-2004
+858-Uruguay-2005
+858-Uruguay-2006
+858-Uruguay-2007
+858-Uruguay-2008
+858-Uruguay-2009
+858-Uruguay-2010
+858-Uruguay-2011
+858-Uruguay-2012
+858-Uruguay-2013
+858-Uruguay-2014
+858-Uruguay-2015
+858-Uruguay-2016
+858-Uruguay-2017
+858-Uruguay-2018
+858-Uruguay-2019
+842-USA-2000
+842-USA-2001
+842-USA-2002
+842-USA-2003
+842-USA-2004
+842-USA-2005
+842-USA-2006
+842-USA-2007
+842-USA-2008
+842-USA-2009
+842-USA-2010
+842-USA-2011
+842-USA-2012
+842-USA-2013
+842-USA-2014
+842-USA-2015
+842-USA-2016
+842-USA-2017
+842-USA-2018
+842-USA-2019
+704-Viet Nam-2000
+704-Viet Nam-2001
+704-Viet Nam-2002
+704-Viet Nam-2003
+704-Viet Nam-2004
+704-Viet Nam-2006
+704-Viet Nam-2007
+704-Viet Nam-2008
+704-Viet Nam-2009
+704-Viet Nam-2010
+704-Viet Nam-2011
+704-Viet Nam-2012
+704-Viet Nam-2013
+704-Viet Nam-2014
+704-Viet Nam-2015
+704-Viet Nam-2016
+704-Viet Nam-2017
+704-Viet Nam-2018
+704-Viet Nam-201976-Brazil-2016
+76-Brazil-2018
+96-Brunei Darussalam-2002
+96-Brunei Darussalam-2004
+704-Viet Nam-2005
+704-Viet Nam-2019
+76-Brazil-2016
